@@ -1,12 +1,12 @@
 ## Hi there 👋
-
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
+</a>
 <!--
 **Hyeok-Jun-Yoon/Hyeok-jun-Yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
-</a>
+
 
 
 - 🔭 I’m currently working on ...
