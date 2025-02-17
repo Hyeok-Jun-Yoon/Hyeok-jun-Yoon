@@ -2,6 +2,11 @@
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok-jun-Yoon)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 <!--
 **Hyeok-Jun-Yoon/Hyeok-jun-Yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
